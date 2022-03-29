@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KoAlan91
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning python
+- 📫 How to reach me ko.alan.ak@gmail.com
